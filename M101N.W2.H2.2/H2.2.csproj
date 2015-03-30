@@ -7,8 +7,8 @@
     <ProjectGuid>{FD286AF4-EB24-485C-AA37-6F134F1FE32B}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>M101N.W2.H2._2</RootNamespace>
-    <AssemblyName>M101N.W2.H2.2</AssemblyName>
+    <RootNamespace>Homework_2_2</RootNamespace>
+    <AssemblyName>H2.2</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
