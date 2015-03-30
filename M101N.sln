@@ -3,11 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "H2.2", "M101N.W2.H2.2\H2.2.csproj", "{FD286AF4-EB24-485C-AA37-6F134F1FE32B}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Week2", "Week2", "{210FDBC0-68F1-4BC0-AE49-F621723EEBE7}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "H2.2", "H2.2", "{234AC4B6-BA60-4C6E-BF89-C7AAF5A23B7C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "H2.2", "W2\H2.2\H2.2.csproj", "{FD286AF4-EB24-485C-AA37-6F134F1FE32B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -22,9 +18,5 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(NestedProjects) = preSolution
-		{FD286AF4-EB24-485C-AA37-6F134F1FE32B} = {234AC4B6-BA60-4C6E-BF89-C7AAF5A23B7C}
-		{234AC4B6-BA60-4C6E-BF89-C7AAF5A23B7C} = {210FDBC0-68F1-4BC0-AE49-F621723EEBE7}
 	EndGlobalSection
 EndGlobal
