@@ -1,1 +1,2 @@
-db.profile.find({'ns':'school2.students'},{millis:1}).sort({millis:-1})
+db.posts.ensureIndex({"CreatedAtUtc":-1})
+db.posts.ensureIndex({"Tags":1, "CreatedAtUtc":-1})

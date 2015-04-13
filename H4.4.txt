@@ -1,0 +1,1 @@
+db.profile.find({'ns':'school2.students'},{millis:1}).sort({millis:-1})
